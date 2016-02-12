@@ -3,6 +3,7 @@
   <ImportGroup Label="PropertySheets">
     <Import Project="grpc_debug.props" />
     <Import Project="protoc_debug.props" />
+    <Import Project="global.props" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup />
